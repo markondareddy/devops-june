@@ -9,5 +9,8 @@ feature code 2
 
 feature code 3
 
+<<<<<<< Updated upstream
 this is final code
 
+=======
+>>>>>>> Stashed changes
